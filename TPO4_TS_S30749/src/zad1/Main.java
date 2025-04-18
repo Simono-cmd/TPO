@@ -5,8 +5,6 @@
  */
 
 package zad1;
-
-
 import java.util.*;
 import java.util.concurrent.*;
 
